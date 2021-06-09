@@ -4,4 +4,4 @@
 
 This project explores some (somewhat silly) questions using R, plotting, and statistical inference.
 
-[stat_inference_header](/img/stat_inference_header.png)
+![stat_inference_header](/img/stat_inference_header.png)
