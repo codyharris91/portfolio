@@ -2,6 +2,6 @@
 
 ## [Statistical Inference in R](https://github.com/codyharris91/stat-inference)
 
-This project explores some (somewhat silly) questions using R, plotting, and statistical inference.
+This project explores (somewhat silly) questions using R, plotting, and statistical inference.
 
 ![stat_inference_header](/img/stat_inference_header.png)
