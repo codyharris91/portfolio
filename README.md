@@ -14,7 +14,7 @@ Through this work I am able to demonstrate my ability to not only accomplsh data
 
 ## [Research Paper into the Pix2Vox Method](https://github.com/codyharris91/Pix2Vox-B657-Experiments)
 
-![image](https://user-images.githubusercontent.com/31891287/121578357-955e7500-c9f8-11eb-83de-9e57e788b4dd.png)
+![image](https://user-images.githubusercontent.com/31891287/121578582-d2c30280-c9f8-11eb-89f0-f1970ecde470.png)
 
 ### Project Summary
 
