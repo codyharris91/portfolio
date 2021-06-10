@@ -28,9 +28,19 @@ I was the principal author and researcher of this paper in which I dove into exp
 
 I was able to take open source code and make small tweaks that made the code better serve my purposes. While my contributions to the code are small, I was able to understand complicated code for a deep learning project to the point of being able debug issues and create improvements. The paper shows my ability as an author to convey my findings in a conference paper style. 
 
-## Kaggle HCDR
+## [Soil Moisture Prediction using Machine Learning](https://github.com/codyharris91/Soil-Moisture-Prediction)
 
-## Water Moisture ML
+![image](https://user-images.githubusercontent.com/31891287/121582921-9fcf3d80-c9fd-11eb-85c4-55f0df692ee0.png)
+
+### Project Summary
+
+Using weather data from NOAA and soil moisture data from a study performed at Cook Agronomy Farm to predict soil moisture from weather data using sci-kit learn. This project sought to eliminate complex formulas for evapotransporation or other water cycle phenomenom by creating a ML model that only incorporates some weather measurements. 
+
+### What this work demonstrates
+
+First, I was able to build an end-to-end machine learning pipeline. Although that alone consituted a great deal of work, the data cleaning and aggregation from various sources took the bulk of the effort in this project which is a skill that cannot be looked over for any data scientist.
+
+## Kaggle HCDR
 
 ## Search
 
