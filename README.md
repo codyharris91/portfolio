@@ -2,7 +2,7 @@
 
 ## [Statistical Inference in R](https://github.com/codyharris91/stat-inference)
 
-![stat_inference_header](/img/stat_inference_header.png)
+![image](https://user-images.githubusercontent.com/31891287/121578511-c048c900-c9f8-11eb-80b5-459f0c624e37.png)
 
 ### Project Summary
 
@@ -13,6 +13,8 @@ This project explores (somewhat silly) questions using R, plotting, and statisti
 Through this work I am able to demonstrate my ability to not only accomplsh data analysis, but my ability to communicate my thought process and findings. 
 
 ## [Research Paper into the Pix2Vox Method](https://github.com/codyharris91/Pix2Vox-B657-Experiments)
+
+![image](https://user-images.githubusercontent.com/31891287/121578357-955e7500-c9f8-11eb-83de-9e57e788b4dd.png)
 
 ### Project Summary
 
