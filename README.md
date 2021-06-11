@@ -56,5 +56,5 @@ First, I was able to build an end-to-end machine learning pipeline. Although tha
 
 ## Projective Transormation
 
-##Footnotes
+## Footnotes
 **1** This denotes a project that 
