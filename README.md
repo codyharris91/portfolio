@@ -30,7 +30,8 @@ I was able to take open source code and make small tweaks that made the code bet
 
 ## [Soil Moisture Prediction using Machine Learning](https://github.com/codyharris91/Soil-Moisture-Prediction)
 
-![image](https://user-images.githubusercontent.com/31891287/121582921-9fcf3d80-c9fd-11eb-85c4-55f0df692ee0.png)
+![image](https://user-images.githubusercontent.com/31891287/121582921-9fcf3d80-c9fd-11eb-85c4-55f0df692ee0.png)  
+
 [Image Source](https://data.nal.usda.gov/dataset/data-field-scale-sensor-network-data-set-monitoring-and-modeling-spatial-and-temporal-variation-soil-moisture-dryland-agricultural-field)
 
 ### Project Summary
@@ -55,7 +56,8 @@ The main goal of this project was to combine various computer vision techniques,
 
 ## [Evaluating Olfactory Genes in Felis catus](https://github.com/codyharris91/Felis-Catus-Olfactory)
 
-![image](https://user-images.githubusercontent.com/31891287/121739430-9b705680-cac9-11eb-9656-dc6b432b3913.png)
+![image](https://user-images.githubusercontent.com/31891287/121739430-9b705680-cac9-11eb-9656-dc6b432b3913.png)  
+
 [Image Source](https://www.catster.com/lifestyle/cats-four-facts-nose)
 
 ### Project Summary
