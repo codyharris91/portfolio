@@ -70,6 +70,10 @@ This was a project from a bioinformatics data science course. I leveraged the un
 
 ## [Bayes Net and Decision Tree from Scratch for Tweet Classification](https://github.com/codyharris91/Tweet-Classification)
 
+![image](https://user-images.githubusercontent.com/31891287/121744059-556ac100-cad0-11eb-8d6f-c3c892b3a7e8.png)  
+
+[Image Source](https://towardsdatascience.com/introduction-to-bayesian-networks-81031eeed94e)
+
 ### Project Summary
 
 Given training data that includes a tweet and the location of a tweet, this project uses either a decision tree or a Bayes net to predict test tweets locations, solely based on the words or symbols within a tweet. 
