@@ -52,7 +52,7 @@ This team oriented project sought to identify quarter notes, quarter rests and e
 
 The main goal of this project was to combine various computer vision techniques, such as a hough transform, to complete a real project. Also this project was done with the effort of three individuals working seamlessly together using succinct conversation to accomplish this project in less than 7 days.
 
-## [Evaluating Olfactory Genes in Felis catus]
+## [Evaluating Olfactory Genes in Felis catus](https://github.com/codyharris91/Felis-Catus-Olfactory)
 
 ![image](https://user-images.githubusercontent.com/31891287/121739430-9b705680-cac9-11eb-9656-dc6b432b3913.png)
 
@@ -64,6 +64,16 @@ A short and sweet project in which Human olfactory genes are compared to those o
 
 This was a project from a bioinformatics data science course. I leveraged the unix shell and python to complete all data tasks on a virtual linux environment. Through this project I show my ability to interact with various APIs, and specifically the command line tools that are avaliable from NCBI. 
 
+## [Bayes Net and Decision Tree from Scratch for Tweet Classification](https://github.com/codyharris91/Tweet-Classification)
+
+### Project Summary
+
+Given training data that includes a tweet and the location of a tweet, this project uses either a decision tree or a Bayes net to predict test tweets locations, solely based on the words or symbols within a tweet. 
+
+### What this work demonstrates
+
+This shows the ability to fully grasp the algorith and math behind a machine learning model and implement it from scratch with out using libraries such as sklearn. Only base libraries such as NumPy were used, and mostly for the ease and speed of mathimatical operations.
+
 ## Kaggle HCDR
 
 ## Search
@@ -72,14 +82,12 @@ This was a project from a bioinformatics data science course. I leveraged the un
 
 ## Yahtzee and Chess
 
-## Bayes Net and Decision Tree from Scratch
-
 ## Projective Transormation
 
 # Footnotes
 
 **1** A project that I completed with a team. Unless otherwise noted, work was split as evenly as possible and was done collaboratively therefore it is nearly impossible to designate the specific work done by me.
 
-**2** A project where other individuals contributed but I was the principal researcher, experimenter, etc and teammates played a minor role.
+**2** A project where other individuals contributed but I was the principal researcher, experimenter, implementer, coder, etc and teammates played a minor role.
 
 Unless otherwise noted, all projects were completed individually by me. If a project was completed by a team, all team members are given credit for their contributions.
