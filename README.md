@@ -55,6 +55,7 @@ The main goal of this project was to combine various computer vision techniques,
 ## [Evaluating Olfactory Genes in Felis catus](https://github.com/codyharris91/Felis-Catus-Olfactory)
 
 ![image](https://user-images.githubusercontent.com/31891287/121739430-9b705680-cac9-11eb-9656-dc6b432b3913.png)
+[Image Source](https://www.catster.com/lifestyle/cats-four-facts-nose)
 
 ### Project Summary
 
