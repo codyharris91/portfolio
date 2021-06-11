@@ -40,6 +40,18 @@ Using weather data from NOAA and soil moisture data from a study performed at Co
 
 First, I was able to build an end-to-end machine learning pipeline. Although that alone consituted a great deal of work, the data cleaning and aggregation from various sources took the bulk of the effort in this project which is a skill that cannot be looked over for any data scientist.
 
+## [Optical Musical Recognition]() [<sup>1</sup>](#Footnotes)
+
+![image](https://user-images.githubusercontent.com/31891287/121734805-429dbf80-cac3-11eb-90e7-d270e9446510.png)
+
+### Project Summary
+
+This team oriented project sought to identify quarter notes, quarter rests and eighth rests from an image of musical sheet music. The output is an image such as seen above along with a text document describing the identified objects, what they are, and their location. This program is meant to work no matter the size of the notes or rests inside the image and uses no libraries to automatically identify or classify the notes.
+
+### What this work demonstrates
+
+The main goal of this project was to combine various computer vision techniques, such as a hough transform, to complete a real project. Also this project was done with the effort of three individuals working seamlessly together using succinct conversation to accomplish this project in less than 7 days.
+
 ## Kaggle HCDR
 
 ## Search
@@ -50,11 +62,14 @@ First, I was able to build an end-to-end machine learning pipeline. Although tha
 
 ## Bayes Net and Decision Tree from Scratch
 
-## Music Notes
-
 ## Cat Olfactory
 
 ## Projective Transormation
 
-## Footnotes
-**1** This denotes a project that 
+# Footnotes
+
+**1** A project that I completed with a team. Unless otherwise noted, work was split as evenly as possible and was done collaboratively therefore it is nearly impossible to designate the specific work done by me.
+
+**2** A project where other individuals contributed but I was the principal researcher, experimenter, etc and teammates played a minor role.
+
+Unless otherwise noted, all projects were completed individually by me. If a project was completed by a team, all team members are given credit for their contributions.
