@@ -52,6 +52,18 @@ This team oriented project sought to identify quarter notes, quarter rests and e
 
 The main goal of this project was to combine various computer vision techniques, such as a hough transform, to complete a real project. Also this project was done with the effort of three individuals working seamlessly together using succinct conversation to accomplish this project in less than 7 days.
 
+## [Evaluating Olfactory Genes in Felis catus]
+
+![image](https://user-images.githubusercontent.com/31891287/121739430-9b705680-cac9-11eb-9656-dc6b432b3913.png)
+
+### Project Summary
+
+A short and sweet project in which Human olfactory genes are compared to those of the genes found in a common housecat. This included using a combination of python and bash scripts to pull, compare, and clean data. The report explains my methods along with some preliminary findings.
+
+### What this work demonstrates
+
+This was a project from a bioinformatics data science course. I leveraged the unix shell and python to complete all data tasks on a virtual linux environment. Through this project I show my ability to interact with various APIs, and specifically the command line tools that are avaliable from NCBI. 
+
 ## Kaggle HCDR
 
 ## Search
@@ -61,8 +73,6 @@ The main goal of this project was to combine various computer vision techniques,
 ## Yahtzee and Chess
 
 ## Bayes Net and Decision Tree from Scratch
-
-## Cat Olfactory
 
 ## Projective Transormation
 
