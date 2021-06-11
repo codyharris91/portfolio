@@ -40,7 +40,7 @@ Using weather data from NOAA and soil moisture data from a study performed at Co
 
 First, I was able to build an end-to-end machine learning pipeline. Although that alone consituted a great deal of work, the data cleaning and aggregation from various sources took the bulk of the effort in this project which is a skill that cannot be looked over for any data scientist.
 
-## [Optical Musical Recognition]() [<sup>1</sup>](#Footnotes)
+## [Optical Musical Recognition](https://github.com/codyharris91/Optical-Music-Recognition) [<sup>1</sup>](#Footnotes)
 
 ![image](https://user-images.githubusercontent.com/31891287/121734805-429dbf80-cac3-11eb-90e7-d270e9446510.png)
 
