@@ -12,7 +12,7 @@ This project explores (somewhat silly) questions using R, plotting, and statisti
 
 Through this work I am able to demonstrate my ability to not only accomplsh data analysis, but my ability to communicate my thought process and findings. 
 
-## [Research Paper about the Pix2Vox Method](https://github.com/codyharris91/Pix2Vox-B657-Experiments)
+## [Research Paper about the Pix2Vox Method](https://github.com/codyharris91/Pix2Vox-B657-Experiments) [<sup>2</sup>](#### )
 
 ![image](https://user-images.githubusercontent.com/31891287/121578725-f9813900-c9f8-11eb-9e45-b01815500098.png)
 
@@ -55,3 +55,6 @@ First, I was able to build an end-to-end machine learning pipeline. Although tha
 ## Cat Olfactory
 
 ## Projective Transormation
+
+#### 
+**1** This denotes a project that 
