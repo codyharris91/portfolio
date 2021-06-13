@@ -94,14 +94,6 @@ Given training data that includes a tweet and the location of a tweet, this proj
 
 This shows the ability to fully grasp the algorith and math behind a machine learning model and implement it from scratch with out using libraries such as sklearn. Only base libraries such as NumPy were used, and mostly for the ease and speed of mathimatical operations.
 
-## Kaggle HCDR
-
-## Search
-
-## A* Search
-
-## Yahtzee and Chess
-
 # Footnotes
 
 **1** A project that I completed with a team. Unless otherwise noted, work was split as evenly as possible and was done collaboratively therefore it is nearly impossible to designate the specific work done by me.
