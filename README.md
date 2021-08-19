@@ -36,7 +36,7 @@ I was able to take open source code and make small tweaks that made the code bet
 
 ### Project Summary
 
-Using weather data from NOAA and soil moisture data from a study performed at Cook Agronomy Farm to predict soil moisture from weather data using sci-kit learn. This project sought to eliminate complex formulas for evapotransporation or other water cycle phenomenom by creating a ML model that only incorporates some weather measurements. 
+Using weather data from NOAA and soil moisture data from a study performed at Cook Agronomy Farm to predict soil moisture from weather data using sci-kit learn. This project sought to eliminate complex formulas for evapotranspiration or other water cycle phenomenon by creating a ML model that only incorporates some weather measurements
 
 ### What this work demonstrates
 
